@@ -11,3 +11,5 @@
 # How to hit breakpoints, do real debugging
 
 # Curious to know - tsconfig.json settings, structure of app.
+
+# Next up - create components, service using CLI
