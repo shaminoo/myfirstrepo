@@ -7,4 +7,4 @@
 # Add service to existing module.
 # Curious to know - tsconfig.json settings, structure of app.
 
-# Next up - create components, service using CLI
+# Next up - create angular 1.6* app to get deeper understanding of angular
