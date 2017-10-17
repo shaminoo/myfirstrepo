@@ -1,14 +1,6 @@
-# myfirstrepo angular CLI
-# followed https://code.visualstudio.com/docs/editor/versioncontrol and
-# https://code.visualstudio.com/docs/nodejs/angular-tutorial
-# Get VS code insiders version
-# Connect to Git hub, git clone, checkout branch, create new, sync branch
-# Download angular CLI, scaffold using ng new, use ng serve, how easy it is to create app
-# it uses node runtime
-# Learnt how to debug within VS code, download chrome debugger
-# How to use launch.json settings (launch from debug menu)
-# How to use debug menu, update variables at run time
-# How to hit breakpoints, do real debugging
+# myfirstrepo angular CLI Part2
+# followed https://github.com/angular/angular-cli starting 'Generating Components, Directives, Pipes and Services'
+# Pre req - followed angularCLI repo
 
 # Curious to know - tsconfig.json settings, structure of app.
 
