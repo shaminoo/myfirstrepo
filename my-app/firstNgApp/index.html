@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en" ng-app="myApp">
+<head>
+    <meta charset="UTF-8">
+    <title>Angular demo</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.6/angular.min.js"></script>
+    
+    <script src="maincontrollers.js"></script>
+    <script src="dependentModule.js"></script>
+</head>
+<body>
+    <input type="text" ng-model="name">
+    {{name}}
+    <div ng-controller="MyController">
+        {{author.name}}
+        {{author.title}}
+        {{author.company}}
+    </div>
+    <div ng-controller="MainController">
+        {{mainController}}
+    </div>
+</body>
+</html>
